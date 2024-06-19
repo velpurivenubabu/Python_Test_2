@@ -9,12 +9,12 @@ Python Modules Used
 datetime
 
 Functionalities
-Display Books
-Add Books
-Update Books
-Remove Books
-Add borrower
-Update borrower
-Remove_borrower
-Borrow Books
-Return Books
+1.Display Books
+2.Add Books
+3.Update Books
+4.Remove Books
+5.Add borrower
+6.Update borrower
+7.Remove_borrower
+8.Borrow Books
+9.Return Books
